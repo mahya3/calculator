@@ -1,16 +1,31 @@
-# calculator
-یک ماشین حساب ساده و سبک ساخته شده با #c و Windows Forms در محیط visual studio . این پروژه برای تمرین ساخت رابط کاربری , کار با رویداد ها (events) و انجام محاسبات پایه در زبان سی شارپ است . 
-#FEATURES(ویژگی ها)
-.انجام چهار عمل اصلی (جمع , تفریق , ضرب , تقسیم)
-.دکمه پاک کردن (clear) 
-.پشتیبانی از ورودی چند رقمی 
-.رابط کاربری ساده و قابل فهم
+📟 CALCULATOR APP(C#)
+A fully-featured and educational Calculator Application designed and developed in C#.
+This project demonstrates how a simple calculator works behind the scenes Which includes the four basic operations ofWhich includes the four basic operations of multiplication, division, addition, and subtraction. division, addition, and subtraction.
+It serves as an excellent example for learning how basic math logic is implemented in software.
 
-#تکنولوژی های استفاده شده:
-#C   ,    windows Form   ,     Visual Studio .
+🚀 Features
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
+✔️ Clear and intuitive interface
+✔️ Well-structured and beginner-friendly code 
 
-#نحوه اجرا:
-1.مخزن پروژه را کلون کنید: (git clone https://github.com/mahya3/calculator.git)
-2.پروژه را در Visual Studio باز کنید.
-3.فایل Solution را اجرا کرده و برنامه را Build کنید.
-4.پروژه را Run کنید و از ماشین‌حساب استفاده نمایید
+🛠️ Technologies Used
+C#
+.NET Framework
+Windows Forms Application
+
+🧮 How to Use
+1.Start the application.
+2.Enter the fisrt number.
+3.Choose the desired operation.
+4.Inter the second number.
+5.The result will be displayed instantly.
+
+📦 Installation & Setup
+1.Clone the repository:
+2.Open the project in Visual Studio or any compatible C# IDE.
+3.Build and run the project:
+Press F5
+
