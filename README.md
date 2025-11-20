@@ -29,3 +29,6 @@ Windows Forms Application
 3.Build and run the project:
 Press F5
 
+📄 License
+This project is released under the MIT License.
+
