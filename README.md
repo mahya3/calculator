@@ -22,29 +22,39 @@ It serves as an excellent example for learning how basic math logic is implement
 ---
 
 ## 🛠️ Technologies Used
+
 C#
+
 .NET Framework
+
 Windows Forms Application
 
 ---
 
 ## 🧮 How to Use
 1.Start the application.
+
 2.Enter the fisrt number.
+
 3.Choose the desired operation.
+
 4.Inter the second number.
+
 5.The result will be displayed instantly.
 
 ---
 
 ## 📦 Installation & Setup
-1.Clone the repository:
+1.Clone the repository
+
 2.Open the project in Visual Studio or any compatible C# IDE.
+
 3.Build and run the project:
 Press F5
 
 ---
 
 ## 📄 License
+
 This project is released under the MIT License.
 
