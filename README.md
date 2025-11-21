@@ -6,11 +6,17 @@ It serves as an excellent example for learning how basic math logic is implement
 ---
 
 ## 🚀 Features
+
 ➕ Addition
+
 ➖ Subtraction
+
 ✖️ Multiplication
+
 ➗ Division
+
 ✔️ Clear and intuitive interface
+
 ✔️ Well-structured and beginner-friendly code 
 
 ---
